@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="filter-1" filterUnits="userSpaceOnUse" x="3.991" y="3.822" width="16.489" height="21.029" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="0.501"/></filter>
+    <filter id="filter-2" filterUnits="userSpaceOnUse" x="1.994" y="0.591" width="20.739" height="25.45" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="1.002"/></filter>
+    <linearGradient id="linear-gradient-1" x1="5" y1="25.597" x2="5" y2="9.597" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+  </defs>
+  <title>context-menu.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <g filter="url(#filter-1)">
+        <path d="M7.5 7.325 L7.494 21.348 L11.521 17.097 L16.977 17.105 Z" fill="#000000" fill-rule="evenodd" opacity="0.6"/>
+      </g>
+      <g filter="url(#filter-2)">
+        <path d="M7 5.597 L7 7.599 L7.012 21.035 L11.5 16.589 L17.727 16.611 Z" fill="#000000" fill-rule="evenodd" opacity="0.2"/>
+      </g>
+    </g>
+    <path d="M14.5 22.597 C13.672 22.597 13 23.269 13 24.097 C13 24.925 13.672 25.597 14.5 25.597 C15.328 25.597 16 24.925 16 24.097 C16 23.269 15.328 22.597 14.5 22.597 Z M19.5 22.597 C18.672 22.597 18 23.269 18 24.097 C18 24.925 18.672 25.597 19.5 25.597 C20.328 25.597 21 24.925 21 24.097 C21 23.269 20.328 22.597 19.5 22.597 Z M24.5 22.597 C23.672 22.597 23 23.269 23 24.097 C23 24.925 23.672 25.597 24.5 25.597 C25.328 25.597 26 24.925 26 24.097 C26 23.269 25.328 22.597 24.5 22.597 Z" fill="#ffffff" stroke="#ffffff" stroke-width="2"/>
+    <g>
+      <path d="M7 5.638 L7 21.038 L11.443 16.597 L17.682 16.597 Z" fill="#ffffff" fill-rule="evenodd"/>
+      <path d="M8 8.097 L8 18.624 L11.029 15.597 L15.311 15.597 Z" fill="url(#linear-gradient-1)" fill-rule="evenodd"/>
+    </g>
+    <path d="M14.5 22.597 C13.672 22.597 13 23.269 13 24.097 C13 24.925 13.672 25.597 14.5 25.597 C15.328 25.597 16 24.925 16 24.097 C16 23.269 15.328 22.597 14.5 22.597 Z M19.5 22.597 C18.672 22.597 18 23.269 18 24.097 C18 24.925 18.672 25.597 19.5 25.597 C20.328 25.597 21 24.925 21 24.097 C21 23.269 20.328 22.597 19.5 22.597 Z M24.5 22.597 C23.672 22.597 23 23.269 23 24.097 C23 24.925 23.672 25.597 24.5 25.597 C25.328 25.597 26 24.925 26 24.097 C26 23.269 25.328 22.597 24.5 22.597 Z" fill="#000000"/>
+    <path id="hotspot" d="M7 4.597 L8 4.597 L8 5.597 L7 5.597 Z" fill="#333333" display="none"/>
+  </g>
+</svg>

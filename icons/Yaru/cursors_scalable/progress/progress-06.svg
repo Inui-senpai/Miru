@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="filter-1" filterUnits="userSpaceOnUse" x="6.241" y="2.496" width="16.489" height="21.029" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="0.501"/></filter>
+    <filter id="filter-2" filterUnits="userSpaceOnUse" x="4.244" y="-0.735" width="20.739" height="25.45" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="1.002"/></filter>
+    <filter id="filter-3" filterUnits="userSpaceOnUse" x="6.453" y="11.432" width="21.594" height="21.594" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="1.099"/></filter>
+    <filter id="filter-4" filterUnits="userSpaceOnUse" x="8.25" y="13.729" width="17" height="17" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="0.5"/></filter>
+    <linearGradient id="linear-gradient-1" x1="7.25" y1="24.229" x2="7.25" y2="8.23" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+  </defs>
+  <title>progress-06.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <g>
+        <g filter="url(#filter-1)">
+          <path d="M9.75 5.999 L9.744 20.022 L13.771 15.771 L19.227 15.779 Z" fill="#000000" fill-rule="evenodd" opacity="0.6"/>
+        </g>
+        <g filter="url(#filter-2)">
+          <path d="M9.25 4.271 L9.25 6.273 L9.262 19.708 L13.75 15.262 L19.977 15.285 Z" fill="#000000" fill-rule="evenodd" opacity="0.2"/>
+        </g>
+      </g>
+      <g filter="url(#filter-3)">
+        <path d="M17.25 16.729 C14.216 16.729 11.75 19.196 11.75 22.229 C11.75 25.264 14.216 27.729 17.25 27.729 C20.285 27.729 22.75 25.264 22.75 22.229 C22.75 19.196 20.285 16.729 17.25 16.729 Z" fill="#000000" opacity="0.2"/>
+      </g>
+      <g filter="url(#filter-4)">
+        <path d="M16.75 17.229 C13.991 17.229 11.75 19.47 11.75 22.229 C11.75 24.989 13.991 27.229 16.75 27.229 C19.509 27.229 21.75 24.989 21.75 22.229 C21.75 19.47 19.509 17.229 16.75 17.229 Z" fill="#000000" opacity="0.6"/>
+      </g>
+      <path d="M16.75 16.229 C13.715 16.229 11.25 18.694 11.25 21.729 C11.25 24.764 13.715 27.229 16.75 27.229 C19.785 27.229 22.25 24.764 22.25 21.729 C22.25 18.694 19.785 16.229 16.75 16.229 Z" fill="#232323"/>
+      <g>
+        <path d="M9.25 4.271 L9.25 19.67 L13.693 15.229 L19.932 15.229 Z" fill="#ffffff" fill-rule="evenodd"/>
+        <path d="M10.25 6.73 L10.25 17.257 L13.279 14.229 L17.561 14.229 Z" fill="url(#linear-gradient-1)" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <path d="M19.8 18.424 L19.284 19.316 C20.334 20.426 20.555 22.115 19.773 23.471 C19.635 23.708 19.469 23.927 19.281 24.124 L19.795 25.01 C20.125 24.708 20.411 24.358 20.639 23.971 C21.698 22.135 21.323 19.833 19.8 18.424 Z" fill="#ffffff"/>
+    <path d="M18.063 17.432 C16.083 16.819 13.907 17.641 12.844 19.472 C12.622 19.863 12.462 20.285 12.366 20.722 L13.391 20.722 C13.468 20.462 13.575 20.208 13.71 19.97 C14.495 18.618 16.066 17.97 17.548 18.324 Z" fill="#ffffff"/>
+    <path d="M13.395 22.721 L12.355 22.721 C12.631 23.934 13.401 24.987 14.491 25.618 C15.583 26.247 16.88 26.388 18.069 26.02 L17.549 25.12 C16.687 25.326 15.771 25.2 14.992 24.753 C14.215 24.299 13.647 23.57 13.395 22.721 Z" fill="#ffffff"/>
+    <path id="hotspot" d="M7 5 L8 5 L8 6 L7 6 Z" fill="#333333" display="none"/>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="filter-1" filterUnits="userSpaceOnUse" x="2.09" y="3.074" width="27.82" height="27.778" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="0.97"/></filter>
+    <filter id="filter-2" filterUnits="userSpaceOnUse" x="1.2" y="1.184" width="29.642" height="29.607" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="1.6"/></filter>
+    <linearGradient id="linear-gradient-1" x1="4" y1="23.991" x2="4" y2="7.991" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+  </defs>
+  <title>wait-36.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <g filter="url(#filter-1)">
+        <path d="M16 8.484 C18.254 8.484 20.416 9.377 22.01 10.967 C23.604 12.557 24.5 14.714 24.5 16.963 C24.5 19.211 23.604 21.368 22.01 22.958 C20.416 24.548 18.254 25.442 16 25.442 C13.746 25.442 11.584 24.548 9.99 22.958 C8.396 21.368 7.5 19.211 7.5 16.963 C7.5 14.714 8.396 12.557 9.99 10.967 C11.584 9.377 13.746 8.484 16 8.484 Z" fill="#000000" stroke="#000000" stroke-linecap="round" opacity="0.6"/>
+      </g>
+      <g filter="url(#filter-2)">
+        <path d="M16.021 8.984 C19.899 8.984 23.042 12.12 23.042 15.988 C23.042 19.855 19.899 22.991 16.021 22.991 C12.144 22.991 9 19.855 9 15.988 C9 12.12 12.144 8.984 16.021 8.984 Z" fill="#000000" stroke="#000000" stroke-width="2" stroke-linecap="round" opacity="0.2"/>
+      </g>
+      <path d="M16 7.491 C11.317 7.491 7.5 11.308 7.5 15.991 C7.5 20.674 11.317 24.491 16 24.491 C20.684 24.491 24.5 20.674 24.5 15.991 C24.5 11.308 20.684 7.491 16 7.491 Z" fill="url(#linear-gradient-1)" stroke="#ffffff" stroke-linecap="round"/>
+    </g>
+    <path d="M12.198 20.609 L12.706 19.73 C10.928 18.154 10.503 15.545 11.691 13.488 C11.961 13.022 12.304 12.604 12.707 12.247 L12.205 11.378 C11.653 11.828 11.186 12.373 10.825 12.988 C9.362 15.523 9.943 18.744 12.198 20.609 Z" fill="#ffffff"/>
+    <path d="M13.933 21.604 C16.674 22.624 19.752 21.519 21.217 18.988 C21.569 18.368 21.807 17.691 21.921 16.988 L20.917 16.988 C20.81 17.515 20.619 18.021 20.351 18.488 C19.16 20.537 16.693 21.469 14.445 20.718 Z" fill="#ffffff"/>
+    <path d="M20.905 14.989 L21.93 14.988 C21.633 13.226 20.567 11.687 19.021 10.791 C17.472 9.9 15.607 9.746 13.933 10.371 L14.444 11.259 C15.797 10.803 17.281 10.948 18.521 11.658 C19.755 12.377 20.623 13.589 20.905 14.989 Z" fill="#ffffff"/>
+    <path id="hotspot" d="M15.5 15.5 L16.5 15.5 L16.5 16.5 L15.5 16.5 Z" fill="#333333" display="none"/>
+  </g>
+</svg>

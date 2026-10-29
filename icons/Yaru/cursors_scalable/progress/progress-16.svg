@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="filter-1" filterUnits="userSpaceOnUse" x="6.241" y="2.496" width="16.489" height="21.029" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="0.501"/></filter>
+    <filter id="filter-2" filterUnits="userSpaceOnUse" x="4.244" y="-0.735" width="20.739" height="25.45" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="1.002"/></filter>
+    <filter id="filter-3" filterUnits="userSpaceOnUse" x="6.453" y="11.432" width="21.594" height="21.594" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="1.099"/></filter>
+    <filter id="filter-4" filterUnits="userSpaceOnUse" x="8.25" y="13.729" width="17" height="17" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="0.5"/></filter>
+    <linearGradient id="linear-gradient-1" x1="7.25" y1="24.229" x2="7.25" y2="8.23" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+  </defs>
+  <title>progress-16.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <g>
+        <g filter="url(#filter-1)">
+          <path d="M9.75 5.999 L9.744 20.022 L13.771 15.771 L19.227 15.779 Z" fill="#000000" fill-rule="evenodd" opacity="0.6"/>
+        </g>
+        <g filter="url(#filter-2)">
+          <path d="M9.25 4.271 L9.25 6.273 L9.262 19.708 L13.75 15.262 L19.977 15.285 Z" fill="#000000" fill-rule="evenodd" opacity="0.2"/>
+        </g>
+      </g>
+      <g filter="url(#filter-3)">
+        <path d="M17.25 16.729 C14.216 16.729 11.75 19.196 11.75 22.229 C11.75 25.264 14.216 27.729 17.25 27.729 C20.285 27.729 22.75 25.264 22.75 22.229 C22.75 19.196 20.285 16.729 17.25 16.729 Z" fill="#000000" opacity="0.2"/>
+      </g>
+      <g filter="url(#filter-4)">
+        <path d="M16.75 17.229 C13.991 17.229 11.75 19.47 11.75 22.229 C11.75 24.989 13.991 27.229 16.75 27.229 C19.509 27.229 21.75 24.989 21.75 22.229 C21.75 19.47 19.509 17.229 16.75 17.229 Z" fill="#000000" opacity="0.6"/>
+      </g>
+      <path d="M16.75 16.229 C13.715 16.229 11.25 18.694 11.25 21.729 C11.25 24.764 13.715 27.229 16.75 27.229 C19.785 27.229 22.25 24.764 22.25 21.729 C22.25 18.694 19.785 16.229 16.75 16.229 Z" fill="#232323"/>
+      <g>
+        <path d="M9.25 4.271 L9.25 19.67 L13.693 15.229 L19.932 15.229 Z" fill="#ffffff" fill-rule="evenodd"/>
+        <path d="M10.25 6.73 L10.25 17.257 L13.279 14.229 L17.561 14.229 Z" fill="url(#linear-gradient-1)" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <path d="M21.242 21.722 C21.238 21.554 21.225 21.386 21.202 21.222 L20.199 21.222 C20.225 21.386 20.239 21.554 20.242 21.722 C20.241 21.889 20.229 22.056 20.204 22.222 L21.212 22.222 C21.231 22.056 21.241 21.889 21.242 21.722 Z M15.447 18.477 L14.947 17.609 C14.638 17.741 14.345 17.905 14.074 18.1 L14.579 18.977 C14.843 18.769 15.135 18.602 15.447 18.477 Z M15.447 24.965 C15.135 24.84 14.843 24.673 14.579 24.465 L14.074 25.343 C14.345 25.538 14.638 25.701 14.947 25.833 Z" fill="#ffffff" opacity="0"/>
+    <path d="M21.126 22.722 L20.095 22.722 C19.66 24.184 18.308 25.221 16.742 25.222 C16.468 25.219 16.196 25.186 15.931 25.122 L15.419 26.01 C15.846 26.146 16.292 26.218 16.742 26.222 C18.862 26.221 20.667 24.746 21.126 22.722 Z" fill="#ffffff"/>
+    <path d="M21.116 20.722 C20.657 18.701 18.858 17.227 16.741 17.222 C16.292 17.225 15.846 17.297 15.419 17.432 L15.931 18.321 C16.196 18.257 16.468 18.222 16.742 18.222 C18.305 18.225 19.653 19.26 20.087 20.722 Z" fill="#ffffff"/>
+    <path d="M14.202 19.323 L13.683 18.423 C12.77 19.267 12.242 20.462 12.241 21.722 C12.242 22.98 12.77 24.174 13.683 25.02 L14.202 24.12 C13.593 23.476 13.244 22.621 13.242 21.722 C13.245 20.823 13.593 19.965 14.202 19.323 Z" fill="#ffffff"/>
+    <path id="hotspot" d="M7 5 L8 5 L8 6 L7 6 Z" fill="#333333" display="none"/>
+  </g>
+</svg>

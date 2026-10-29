@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <filter id="filter-1" filterUnits="userSpaceOnUse" x="3.991" y="4.489" width="16.489" height="21.029" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="0.501"/></filter>
+    <filter id="filter-2" filterUnits="userSpaceOnUse" x="1.994" y="1.258" width="20.739" height="25.45" color-interpolation-filters="sRGB"><feGaussianBlur in="SourceGraphic" stdDeviation="1.002"/></filter>
+    <linearGradient id="linear-gradient-1" x1="5" y1="26.223" x2="5" y2="10.223" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4d4d4d"/>
+      <stop offset="1" stop-color="#151515"/>
+    </linearGradient>
+  </defs>
+  <title>no-drop.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <g>
+      <g filter="url(#filter-1)">
+        <path d="M7.5 7.992 L7.494 22.015 L11.521 17.764 L16.977 17.772 Z" fill="#000000" fill-rule="evenodd" opacity="0.6"/>
+      </g>
+      <g filter="url(#filter-2)">
+        <path d="M7 6.264 L7 8.266 L7.012 21.702 L11.5 17.256 L17.727 17.278 Z" fill="#000000" fill-rule="evenodd" opacity="0.2"/>
+      </g>
+    </g>
+    <path d="M15.5 21.223 C13.574 21.223 12 22.797 12 24.723 C12 26.649 13.574 28.223 15.5 28.223 C17.426 28.223 19 26.649 19 24.723 C19 22.797 17.426 21.223 15.5 21.223 Z" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff" stroke-width="2"/>
+    <path d="M15.5 21.223 C13.567 21.223 12 22.79 12 24.723 C12 26.656 13.567 28.223 15.5 28.223 C17.433 28.223 19 26.656 19 24.723 C19 22.79 17.433 21.223 15.5 21.223 Z M13.414 26.102 C13.153 25.707 13 25.232 13 24.723 C13 23.342 14.119 22.223 15.5 22.223 C16.009 22.223 16.484 22.376 16.879 22.637 Z M17.586 23.344 C17.847 23.739 18 24.214 18 24.723 C18 26.104 16.881 27.223 15.5 27.223 C14.991 27.223 14.516 27.07 14.121 26.809 Z" fill="#000000" fill-rule="evenodd"/>
+    <g>
+      <path d="M7 6.264 L7 21.664 L11.443 17.223 L17.682 17.223 Z" fill="#ffffff" fill-rule="evenodd"/>
+      <path d="M8 8.723 L8 19.25 L11.029 16.223 L15.311 16.223 Z" fill="url(#linear-gradient-1)" fill-rule="evenodd"/>
+    </g>
+    <path id="hotspot" d="M7 5 L8 5 L8 6 L7 6 Z" fill="#333333" display="none"/>
+  </g>
+</svg>
